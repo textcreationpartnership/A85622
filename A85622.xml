@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great robbery in the north, neer Swanton in Yorkshire; shewing how one Mr. Tailour was robbed by a company of cavaliers, July 12.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85622</idno>
+            <idno type="STC">Wing G1748</idno>
+            <idno type="STC">Thomason E108_12</idno>
+            <idno type="STC">ESTC R5842</idno>
+            <idno type="EEBO-CITATION">99872909</idno>
+            <idno type="PROQUEST">99872909</idno>
+            <idno type="VID">125356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85622)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125356)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E108[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great robbery in the north, neer Swanton in Yorkshire; shewing how one Mr. Tailour was robbed by a company of cavaliers, July 12.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Tomlinson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 28. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Knowles, Thomas, --  Major.</term>
+               <term>Taylor, --  Mr.</term>
+               <term>Royalists --  Great Britain --  History --  17th century --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125356:1" rendition="simple:additions"/>
+            <p>A great Robbery IN THE NORTH, Neer Swanton in Yorkſhire; Shewing How one Mr. TAILOVR was Robbed by a Company OF CAVALIERS, July 12.</p>
+            <p>LONDON: Printed for <hi>George Temlinſon.</hi> July 28. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:125356:2"/>
+            <pb n="1" facs="tcp:125356:2"/>
+            <head>A great Robbery in the North.</head>
+            <p>AT a lone houſe neer <hi>Wetherby</hi> in <hi>York-ſhire,</hi> there dwelt a rich Gull (by name <hi>Tailour</hi>) whoſe wealth was ſo abundant, that he is knowne all about thoſe Coaſts by the name of <hi>Rich Tailour,</hi> but it ſeemes by the ſtory, that he was as it were wedded to his riches, and thought it more Reli<g ref="char:EOLhyphen"/>gion to adore his Gold than his God, inſomuch that his parſimony was ſuch, that he had even choaked his cheſts, with his ſtore; but God will not thus be cheated of his honour, but he will ſhew himſelfe to be a God, and a jealous God, not failing to puniſh the offenders, to ſome purpoſe: it thus therefore hapned, Our moſt gracious Soveraigne which now is (I beſeech the Heavens to bleſſe him, and ſend him long to reigne) ſtood in great need of money to pay his Souldiers which he had levied againſt the <hi>Scots,</hi> and was fain to borrow money of ſome good meaning men, amongſt the reſt, an hundred pounds were required from this fatned Bore, which took ſuch delight to wallow in his ſilver dirt, but he would part with his eyes as ſoon as with his mony, as ſoon the one as the other, and at laſt gave a flat deniall, ſaying, that he neither could nor would ſpare it, and ſo diſmiſſed the meſſenger. O Cur! that any man ſhould adore dirt and droſſe ſo much, that he would not ſpare a doit to ſo good a purpoſe; ſurely, like a
+<pb n="2" facs="tcp:125356:3"/>greedy raſcall as he is, he doth thinke he ſhall never have enough, juſt like to the Rich man in the Go<g ref="char:EOLhyphen"/>ſpell, he was forced to pull down his old Barnes and build new, becauſe the old was too little to contain his ſtore, and yet never contented: or like the Horſe<g ref="char:EOLhyphen"/>leech, he ſtill cries, Give, give, and yet his gutts are ready to break. I hope the devill loves him ſo well, that ere it be long he will give him his guts full of no goodneſſe: but my pious rogue hath cauſed me to di<g ref="char:EOLhyphen"/>greſſe, for he was not long without a match.</p>
+            <p>The Souldiers hearing what a maſſe of money this ſcraping wretch had gleaned up together, and how il-natured he was, that he was unwilling to ſpare an hundred pounds, which was (as it were) but a mite, in compariſon of his ſtore, thus plotted it, that they might be revenged of this griping, beaſtlike man.</p>
+            <p>A company of Troopers about eight or nine a<g ref="char:EOLhyphen"/>greed together to go to this <hi>Tailour,</hi> and to ſearch and ſee what money he had ſo wickedly gathered toge<g ref="char:EOLhyphen"/>ther; well, they all agreed, and each man taking his Horſe, to the houſe of this rich <hi>Tailour</hi> they ride, and all things were very fit and convenient for them, for it was about twelve of the clock at night when they came thither; when they came thither, they found onely a man and a maid beſides rich <hi>Tailour</hi> himſelfe, theſe three they took and bound, each man drawing his ſword and putting it to his breaſt, vow<g ref="char:EOLhyphen"/>ing to kill him, if he told them not where his Gold was, he ſtraightwayes deſired them that they would ſpare his life, and then he began to bid them look in
+<pb n="3" facs="tcp:125356:3"/>the till of ſuch a cheſt, and there they might ſatisfie themſelves: the cheſt by relation was at the leaſt three yards long, and when they had opened it, they ſound it as full cramb'd with ſilver as one piece could lie to another, which made them almoſt ama<g ref="char:EOLhyphen"/>zed, then they opened the till of the cheſt, where they found two thouſand pounds in Gold, that they took in the firſt place, and ſo much of the Silver that it amounted in all to the value of ſourteen thouſand pounds. Now you muſt here underſtand, that the ring-leader in this act was one <hi>Knowles,</hi> who was heretofore a dancer on the ropes, and alſo a jeſter to Maſter <hi>John Punteus</hi> the French Mountebanke, which travelled throughout this Kingdom; who (when they had gotten the money) began to ſhew his feats of activity, upon the table, relling Maſter <hi>Tai<g ref="char:EOLhyphen"/>lour,</hi> that he would not take his money for nothing, he ſhould have ſome ſport for it, and after that done, they each man to his Horſe again, got as faſt as they could, and away they went to ſhift for themſelves. They had not been long gone, but <hi>Tailour</hi> got him<g ref="char:EOLhyphen"/>ſelf looſe, and unbound his man and his maid, and with all ſpeed ſent his man to make hue and cry after theſe Troopers which had robbed him, but they were not ſo fooliſh as to be taken, for every man ſought to ſhift for himſelfe, and they did it moſt compleat<g ref="char:EOLhyphen"/>ly; but this by the way.</p>
+            <p>It ſeemes by the ſequell, that their eyes were more than their bellies, and that they had taken more than they could well tell what to do with, therefore they
+<pb n="4" facs="tcp:125356:4"/>caſt a bag with two hundred pounds in it into a buſh, and ſo hied away. Now it chanced that two men were at plough together, and he that held the plough going that way where the buſh ſtood, and eſpied the bag with the two hundred pounds in it, he had no ſooner caſt his eyes upon the money, but he called to his man to ſhoot off, for he would worke no more that day, his man began to grumble and grutch <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, ſaying, I ſe not ſhoot off, nor Iſe not leefe my dayes worke not I: his maſter anſwered, I ſay, thou ſhalt not, for I will pay thee thy wages, as alſo to give thee thy ſupper; Marry, Gods bleſſing on your heart maſter, ſaid the man, and ſo they ganged along toge<g ref="char:EOLhyphen"/>ther to the next Alehouſe, which was not far from them, and there they began to call for their liquour about them, and in a while they beſpoke meat for their ſuppers; which incontinently they had, and to it they fell and fed heartily, but the old proverbe ſaith, That ſweet meat muſt have ſower ſauce, and ſo it had indeed, too ſower for the poor harmeleſſe men who were as innocent in the knowledge of the rob<g ref="char:EOLhyphen"/>bers, as the childe which was but even then borne. And thus it came to paſſe.</p>
+            <p>Old <hi>Tailour</hi> having ſent Hue and Cry after the Troopers which had taken his fourteen thouſand pounds from him, had this accident by the way,</p>
+            <p>The Hue and Cry chanced to come into the ſame houſe where theſe two poor plough men were which had found the two hundred pounds, where they poor innocent men were taken for ſuſpected perſons, to
+<pb n="5" facs="tcp:125356:4"/>he of the Robbers, and alſo the money which they had, old <hi>Tailour</hi> knew very well to be his, for there were nothing but halfe Crownes in the bag, and they had diminiſhed but twelve ſhillings of it in beer, and their ſupper, the reſt was all told, and found to be right; well, theſe men were ſuſpected fellows, old <hi>Tail</hi> thought, and he ſwore he would hang them if it coſt him halfe his eſtate. Accurſed rogue, that will ſpend more to caſt away an innocent man, than he will lend to his King; well, to the Goal they were conveyed, whilſt the offenders revelled abroad in ſecurity, for ſome ſlipt over into <hi>France,</hi> ſome into <hi>Ireland,</hi> ſome to this place, and ſome to that place, where they all knew themſelves to be in ſecurity; but God will never ſuffer the poor and innocent to periſh, for after they had been a while away, they with unanimity wrote to the King for a pardon, ſhewing the cauſe that they did this deed, becauſe they had not their Pay, and that iron-bound rogue would not give a Souldier a cup of drinke, if he ſhould come and crave it at his gate: when our King had underſtood how the cauſe ſtood, and that it was (as it were) but equity to do as they had done, deſi<g ref="char:EOLhyphen"/>red the Parliaments conſent, and ſo pardoned them all; now they came powdring back again, when they heard how graciouſly our King had dealt with them, and this <hi>Knowles</hi> with old <hi>Tailours</hi> money hath bought a place at Court, and lives moſt gentilely; but thoſe two poor plough-men they were enforced to ſtay in Priſon till Goal-delivery, and indeed I thinke that they had done well to have alloted the two hun<g ref="char:EOLhyphen"/>dred
+<pb n="6" facs="tcp:125356:5"/>pounds to thoſe two poor men which found them, whereby they have ſuffered all this wrong.</p>
+            <p>Thus have you heard the true relation of old <hi>Tailour,</hi> of his riches, how he was robbed by <hi>Knowles</hi> and his company, how they fled, and how they were pardoned, how two poor plough men were taken and apprehended for finding what they had caſt a<g ref="char:EOLhyphen"/>way, and (the more is pity) they lie in durance for it at this time, and ſhall till a Goal-delivery, and in my fooliſh conceit, old <hi>Tailour</hi> was ſerved well e<g ref="char:EOLhyphen"/>nough, I pray God it may be a warning to all ſuch griping villanies. The Troopers they ſped well, but I would not wiſh men to attempt the like, leaſt they fall ſhort of their fortunes.</p>
+            <q>
+               <l>For if the Fates do once begin to frowne,</l>
+               <l>They'l kicke the ſtoutest, and the ſtrongest downe.</l>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
